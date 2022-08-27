@@ -153,20 +153,3 @@ function calculateWinner(squares) {
   }
   return null
 }
-
-/* 
-  hitory = [
-    {
-      squares: [
-        null, null, null,
-        null, null, null,
-        null, null, null,
-      ]
-    },
-    {
-      squares: [
-
-      ]
-    }
-  ]
-*/
